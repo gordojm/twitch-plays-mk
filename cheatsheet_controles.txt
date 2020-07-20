@@ -1,0 +1,40 @@
+```
+MOVIMIENTO Y COMBATE
+[Movimiento : 'comando' : tecla]
+
+===================================
+
+Movimiento básico:
+
+Arriba : 'up' : ↑
+Abajo : 'down' : ↓
+Izquierda : 'left' : ←
+Derecha : 'right' : →
+Cambiar postura : 'flip' : u
+
+===================================
+
+Combate básico:
+
+Throw : 'throw' : space
+Bloquear : 'block' : o
+Front punch : 'fp' : j
+Back punch: 'bp' : i
+Front kick : 'fk' : k
+Back kick : 'bk' : l
+Stage interact : 'interact' : p
+
+===================================
+
+Movimiento avanzado:
+
+Right jump : 'rj' : ↑ + →
+Left jump: 'lj' : ↑ + ←
+
+===================================
+
+Combate avanzado:
+
+Fatal blow : 'fatal' : o + u
+
+```
